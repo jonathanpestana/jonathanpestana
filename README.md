@@ -1,7 +1,7 @@
 <!-- Updated Profile -->
 # Jonathan Pestana 📱
 
-### Software Engineer | Flutter & Dart focado em aplicações de alta escala.
+### Software Engineer | Flutter & Dart.
 
 [🇺🇸 English](#-english) | [🇧🇷 Português](#-português)
 
